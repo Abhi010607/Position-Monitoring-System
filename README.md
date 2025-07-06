@@ -17,3 +17,9 @@ Category	Components (Digital/Software)
 Software	- ESP32 and MPU6050 simulator (e.g., Wokwi, Tinkercad, or similar)
 Hardware	- None (fully simulated environment)
 Cloud	- Optional: MQTT broker simulation or local web server for data streaming/visualization
+
+
+
+https://github.com/user-attachments/assets/95b56696-d98a-40eb-b4ce-114f11ca4ca1
+
+
